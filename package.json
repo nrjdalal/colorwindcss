@@ -55,7 +55,7 @@
     "tinyglobby": "^0.2.13"
   },
   "devDependencies": {
-    "@commitlint/cli": "^19.8.0",
+    "@commitlint/cli": "^20.0.0",
     "@commitlint/config-conventional": "^19.8.0",
     "@ianvs/prettier-plugin-sort-imports": "^4.4.1",
     "@types/node": "^22.13.13",
